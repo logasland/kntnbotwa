@@ -13,7 +13,7 @@ const tambahan = require("./lib/tambahan.js")
 const donasi = require("./lib/donasi.js");
 const info = require("./lib/info.js");
 /////////////////
-const BotName = 'DISTANT FRIENDS'; 
+const BotName = '々DISTANT FRIENDS々'; 
 const instagram = 'https://instagram.com/muhmn7445'; 
 const telegram = 'https://t.me/muhmn7445'; 
 const kapanbotaktif = 'KETIKA HANYA DIAKTIFKAN'; 
